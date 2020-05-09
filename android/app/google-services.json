@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661681891486",
+    "firebase_url": "https://iemtalk-8763c.firebaseio.com",
+    "project_id": "iemtalk-8763c",
+    "storage_bucket": "iemtalk-8763c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661681891486:android:f23308d61fae2e7e25738f",
+        "android_client_info": {
+          "package_name": "com.brodbill.iem_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661681891486-u8lhg8h1jbbo7c1kkrbrhcsn4kfuff84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Hq8S9IkGj3lH2cY0AGsTcRaeWuoCblI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661681891486-u8lhg8h1jbbo7c1kkrbrhcsn4kfuff84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
